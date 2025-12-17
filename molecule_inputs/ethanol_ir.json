@@ -1,0 +1,84 @@
+{
+  "molecule": "Ethanol",
+  "formula": "C2H5OH",
+  "type": "IR",
+  "peaks": [
+    {
+      "wavenumber_cm-1": 3400,
+      "intensity": 1.00,
+      "label": "O-H stretch (broad, H-bonded)",
+      "mapping": {
+        "rhythm": 1.8,
+        "tactile_band": "high"
+      }
+    },
+    {
+      "wavenumber_cm-1": 2970,
+      "intensity": 0.50,
+      "label": "CH3 asymmetric stretch",
+      "mapping": {
+        "rhythm": 1.2,
+        "tactile_band": "mid"
+      }
+    },
+    {
+      "wavenumber_cm-1": 2930,
+      "intensity": 0.40,
+      "label": "CH2 asymmetric stretch",
+      "mapping": {
+        "rhythm": 1.1,
+        "tactile_band": "mid"
+      }
+    },
+    {
+      "wavenumber_cm-1": 2870,
+      "intensity": 0.30,
+      "label": "CH3 symmetric stretch",
+      "mapping": {
+        "rhythm": 1.0,
+        "tactile_band": "mid"
+      }
+    },
+    {
+      "wavenumber_cm-1": 1460,
+      "intensity": 0.30,
+      "label": "CH2 scissoring bend",
+      "mapping": {
+        "rhythm": 0.9,
+        "tactile_band": "low"
+      }
+    },
+    {
+      "wavenumber_cm-1": 1380,
+      "intensity": 0.20,
+      "label": "CH3 umbrella bend",
+      "mapping": {
+        "rhythm": 0.85,
+        "tactile_band": "low"
+      }
+    },
+    {
+      "wavenumber_cm-1": 1060,
+      "intensity": 0.80,
+      "label": "C-O stretch",
+      "mapping": {
+        "rhythm": 0.8,
+        "tactile_band": "low"
+      }
+    },
+    {
+      "wavenumber_cm-1": 880,
+      "intensity": 0.15,
+      "label": "C-C stretch",
+      "mapping": {
+        "rhythm": 0.7,
+        "tactile_band": "low"
+      }
+    }
+  ],
+  "global_properties": {
+    "molecular_weight": 46.07,
+    "dipole_moment": 1.69,
+    "volatility": 0.85
+  }
+}

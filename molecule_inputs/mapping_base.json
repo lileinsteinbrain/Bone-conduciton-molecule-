@@ -1,0 +1,20 @@
+{
+  "version": 1.0,
+  "audio_mapping": {
+    "freq_min_hz": 40,
+    "freq_max_hz": 180,
+    "rhythm_min_hz": 0.6,
+    "rhythm_max_hz": 2.2,
+    "amplitude_min": 0.2,
+    "amplitude_max": 1.0,
+    "timbre_bandwidth_min": 200,
+    "timbre_bandwidth_max": 1800
+  },
+  "tactile_mapping": {
+    "vibration_low_hz": [35, 55],
+    "vibration_mid_hz": [60, 110],
+    "vibration_high_hz": [120, 180],
+    "burst_shapes": ["smooth", "spike", "granular", "pulse"],
+    "default_shape": "smooth"
+  }
+}

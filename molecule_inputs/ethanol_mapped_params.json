@@ -1,0 +1,253 @@
+{
+  "molecule": "Ethanol",
+  "formula": "C2H5OH",
+  "mapped_peaks": [
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 3400,
+      "label": "O-H stretch (broad, H-bonded)",
+      "intensity_raw": 1.0,
+      "intensity_norm": 1.0,
+      "audio_freq_hz": 180.0,
+      "audio_amp": 1.0,
+      "audio_timbre_bw_hz": 1800.0,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 1.0,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 2970,
+      "label": "CH3 asymmetric stretch",
+      "intensity_raw": 0.5,
+      "intensity_norm": 0.412,
+      "audio_freq_hz": 110.82,
+      "audio_amp": 0.593,
+      "audio_timbre_bw_hz": 858.8,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 0.593,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 2930,
+      "label": "CH2 asymmetric stretch",
+      "intensity_raw": 0.4,
+      "intensity_norm": 0.294,
+      "audio_freq_hz": 95.59,
+      "audio_amp": 0.501,
+      "audio_timbre_bw_hz": 670.6,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 0.501,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 2870,
+      "label": "CH3 symmetric stretch",
+      "intensity_raw": 0.3,
+      "intensity_norm": 0.176,
+      "audio_freq_hz": 87.35,
+      "audio_amp": 0.4,
+      "audio_timbre_bw_hz": 482.4,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 0.4,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 1460,
+      "label": "CH2 scissoring bend",
+      "intensity_raw": 0.3,
+      "intensity_norm": 0.176,
+      "audio_freq_hz": 87.35,
+      "audio_amp": 0.4,
+      "audio_timbre_bw_hz": 482.4,
+      "tactile_band": "mid",
+      "tactile_freq_hz": 85.0,
+      "tactile_amp": 0.4,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 1380,
+      "label": "CH3 umbrella bend",
+      "intensity_raw": 0.2,
+      "intensity_norm": 0.059,
+      "audio_freq_hz": 79.12,
+      "audio_amp": 0.283,
+      "audio_timbre_bw_hz": 294.1,
+      "tactile_band": "mid",
+      "tactile_freq_hz": 85.0,
+      "tactile_amp": 0.283,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 1060,
+      "label": "C-O stretch",
+      "intensity_raw": 0.8,
+      "intensity_norm": 0.765,
+      "audio_freq_hz": 156.53,
+      "audio_amp": 0.845,
+      "audio_timbre_bw_hz": 1423.5,
+      "tactile_band": "low",
+      "tactile_freq_hz": 45.0,
+      "tactile_amp": 0.845,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "IR",
+      "wavenumber_cm-1": 880,
+      "label": "C-C stretch",
+      "intensity_raw": 0.15,
+      "intensity_norm": 0.0,
+      "audio_freq_hz": 75.0,
+      "audio_amp": 0.2,
+      "audio_timbre_bw_hz": 200.0,
+      "tactile_band": "low",
+      "tactile_freq_hz": 45.0,
+      "tactile_amp": 0.2,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "Raman",
+      "wavenumber_cm-1": 880,
+      "label": "C-C-O symmetric stretch",
+      "intensity_raw": 1.0,
+      "intensity_norm": 1.0,
+      "audio_freq_hz": 145.0,
+      "audio_amp": 1.0,
+      "audio_timbre_bw_hz": 1800.0,
+      "tactile_band": "low",
+      "tactile_freq_hz": 45.0,
+      "tactile_amp": 1.0,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "Raman",
+      "wavenumber_cm-1": 1050,
+      "label": "C-O asymmetric stretch",
+      "intensity_raw": 0.7,
+      "intensity_norm": 0.647,
+      "audio_freq_hz": 120.29,
+      "audio_amp": 0.765,
+      "audio_timbre_bw_hz": 1235.3,
+      "tactile_band": "low",
+      "tactile_freq_hz": 45.0,
+      "tactile_amp": 0.765,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "Raman",
+      "wavenumber_cm-1": 1460,
+      "label": "CH2/CH3 bending",
+      "intensity_raw": 0.4,
+      "intensity_norm": 0.294,
+      "audio_freq_hz": 95.59,
+      "audio_amp": 0.501,
+      "audio_timbre_bw_hz": 670.6,
+      "tactile_band": "mid",
+      "tactile_freq_hz": 85.0,
+      "tactile_amp": 0.501,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "Raman",
+      "wavenumber_cm-1": 2940,
+      "label": "C-H stretch (asymmetric)",
+      "intensity_raw": 0.3,
+      "intensity_norm": 0.176,
+      "audio_freq_hz": 87.35,
+      "audio_amp": 0.4,
+      "audio_timbre_bw_hz": 482.4,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 0.4,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    },
+    {
+      "source": "Raman",
+      "wavenumber_cm-1": 2880,
+      "label": "C-H stretch (symmetric)",
+      "intensity_raw": 0.3,
+      "intensity_norm": 0.176,
+      "audio_freq_hz": 87.35,
+      "audio_amp": 0.4,
+      "audio_timbre_bw_hz": 482.4,
+      "tactile_band": "high",
+      "tactile_freq_hz": 150.0,
+      "tactile_amp": 0.4,
+      "tactile_shape": "warm_granular",
+      "vibration_profile": {
+        "spread": 0.25,
+        "attack": 0.05,
+        "release": 0.2
+      }
+    }
+  ]
+}
